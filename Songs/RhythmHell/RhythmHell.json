@@ -1,0 +1,30 @@
+{
+  "title": "Rhythm Hell",
+  "subtitle": "-- ",
+  "artist": "Louie Zong",
+  "bpm": 120,
+  "wave": "RhythmHell.ogg",
+  "offset": -0.936,
+  "demostart": 0.935,
+
+  "score_multiplier": 2,
+  "clear_range": 0.6,
+
+  "measures": [
+    {
+      "time_sig": "4/4",
+      "notes": ""
+    },
+    {
+      "notes": ""
+    },
+    { "notes": "1000200010002000" },
+    { "notes": "" },
+    { "notes": "1000202010001000" },
+    { "notes": "" },
+    { "notes": "1010100020202000" },
+    { "notes": "" },
+    { "notes": "1101101022022020" },
+    { "end": true }
+  ]
+}
